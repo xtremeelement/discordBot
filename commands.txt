@@ -1,0 +1,9 @@
+```Here are the list of commands you can use with me
+
+lootlist - raid loot tracking sheet
+<jobabrv>bis - jobs Best in Slot gear ie: !drkbis
+<jobabrv>rotation - Jobs opener/rotations
+fflogs - link to the raids fflogs and join link
+static - Displays current roster
+mylogs<firstname> <lastname> <server> - IE: !mylogs Blazor Prime Gilgamesh, will display your logs
+```

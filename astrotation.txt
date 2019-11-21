@@ -1,0 +1,20 @@
+``` Here is the current work in progress Astrologian Opener```
+```
+(up to -20s, -12s to -9s more optimal purely for star damage) prepull Star
+-5s prepull AspBene
+-4s pot
+-3s Play Arcana prepull, if possible
+-2s Draw
+-1.5s Malefija
+0s <hit> (LS)
+1s Combust (Play, Sleeve)
+
+Opener branching start here, depending on what redraws you want to do.
+
+3.5s Malefija (Play/Redraw, Play/Redraw)
+6s Malefija (Play/Redraw, Play/Redraw/8s Divination)
+8.5s Malefija (9.5s Divination/Play/Redraw, Minor Arcana/10.5s Divination/Play)
+11s Malefija (Play/12s Divination, continue/Minor Arcana)
+13.5s Malefija (continue/Play)
+etc.
+```

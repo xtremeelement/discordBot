@@ -1,0 +1,11 @@
+```Static info
+
+Tank - Eirika
+Tank - Fiora
+Healer - Zur
+Healer - William
+Dps - Saiya
+Dps - Laela
+Dps - Hurr
+Dps - Blazor
+```

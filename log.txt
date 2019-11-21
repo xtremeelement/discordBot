@@ -1,0 +1,4 @@
+testtesttest
+2019-09-18 20:24:05.851709 completed user request
+2019-09-18 20:50:07.494452 completed user request <discord.ext.commands.context.Context object at 0x04B9F790>
+2019-09-27 01:02:45.045393 completed user request

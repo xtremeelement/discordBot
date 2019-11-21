@@ -1,0 +1,9 @@
+```Here are 3 builds for a BiS Astrologian```
+Low Piety (1023 Sps 2.43s GCD 1408 Piety)
+https://ffxiv.ariyala.com/1A06H
+
+High Piety (824 Sps 2.45s GCD 1781 Piety)
+https://ffxiv.ariyala.com/19ZH1
+
+Speedkill only (1221 Sps 1210 Piety)
+https://ffxiv.ariyala.com/1AS3M
